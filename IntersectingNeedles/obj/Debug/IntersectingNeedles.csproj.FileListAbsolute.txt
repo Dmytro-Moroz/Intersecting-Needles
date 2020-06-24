@@ -1,0 +1,18 @@
+C:\Users\hatefrost\Desktop\C\IntersectingNeedles\IntersectingNeedles\bin\Debug\IntersectingNeedles.exe.config
+C:\Users\hatefrost\Desktop\C\IntersectingNeedles\IntersectingNeedles\bin\Debug\IntersectingNeedles.exe
+C:\Users\hatefrost\Desktop\C\IntersectingNeedles\IntersectingNeedles\bin\Debug\IntersectingNeedles.pdb
+C:\Users\hatefrost\Desktop\C\IntersectingNeedles\IntersectingNeedles\obj\Debug\IntersectingNeedles.csprojAssemblyReference.cache
+C:\Users\hatefrost\Desktop\C\IntersectingNeedles\IntersectingNeedles\obj\Debug\IntersectingNeedles.Form1.resources
+C:\Users\hatefrost\Desktop\C\IntersectingNeedles\IntersectingNeedles\obj\Debug\IntersectingNeedles.Properties.Resources.resources
+C:\Users\hatefrost\Desktop\C\IntersectingNeedles\IntersectingNeedles\obj\Debug\IntersectingNeedles.csproj.GenerateResource.cache
+C:\Users\hatefrost\Desktop\C\IntersectingNeedles\IntersectingNeedles\obj\Debug\IntersectingNeedles.exe
+C:\Users\hatefrost\Desktop\C\IntersectingNeedles\IntersectingNeedles\obj\Debug\IntersectingNeedles.pdb
+C:\Users\hatefrost\Desktop\C\My Applications C#\IntersectingNeedles\IntersectingNeedles\bin\Debug\IntersectingNeedles.exe.config
+C:\Users\hatefrost\Desktop\C\My Applications C#\IntersectingNeedles\IntersectingNeedles\bin\Debug\IntersectingNeedles.exe
+C:\Users\hatefrost\Desktop\C\My Applications C#\IntersectingNeedles\IntersectingNeedles\bin\Debug\IntersectingNeedles.pdb
+C:\Users\hatefrost\Desktop\C\My Applications C#\IntersectingNeedles\IntersectingNeedles\obj\Debug\IntersectingNeedles.csprojAssemblyReference.cache
+C:\Users\hatefrost\Desktop\C\My Applications C#\IntersectingNeedles\IntersectingNeedles\obj\Debug\IntersectingNeedles.Form1.resources
+C:\Users\hatefrost\Desktop\C\My Applications C#\IntersectingNeedles\IntersectingNeedles\obj\Debug\IntersectingNeedles.Properties.Resources.resources
+C:\Users\hatefrost\Desktop\C\My Applications C#\IntersectingNeedles\IntersectingNeedles\obj\Debug\IntersectingNeedles.csproj.GenerateResource.cache
+C:\Users\hatefrost\Desktop\C\My Applications C#\IntersectingNeedles\IntersectingNeedles\obj\Debug\IntersectingNeedles.exe
+C:\Users\hatefrost\Desktop\C\My Applications C#\IntersectingNeedles\IntersectingNeedles\obj\Debug\IntersectingNeedles.pdb
